@@ -2,4 +2,3 @@ Hamburger
 Steak
 Potatoes
 Chocolate
-Ice Cream
