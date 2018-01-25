@@ -2,3 +2,5 @@ Hamburger
 Steak
 Potatoes
 Chocolate
+**Adding part7 conflit change here **
+Cheese
